@@ -1,8 +1,0 @@
-.env
-.env.*
-!.env.example
-.key-setup/
-node_modules/
-.sites-runtime/
-*.tgz
-*.zip
