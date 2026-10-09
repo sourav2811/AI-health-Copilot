@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.env*
+!.env.example
+.dev.vars*
+.wrangler
+.sites-runtime
+.next
+*.tsbuildinfo
+*.tar.gz
+.key-setup
+.docker-test
